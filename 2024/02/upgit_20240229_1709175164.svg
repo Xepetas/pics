@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   version="1.1"
+   width="200"
+   height="100"
+   viewBox="3105 2680 2649.4949 1291.6666"
+   id="svg2">
+  <defs
+     id="defs32" />
+  <rect
+     width="755"
+     height="330"
+     rx="0"
+     x="3195.2402"
+     y="2735.8333"
+     id="rect8"
+     style="fill:#ffffff;stroke:#000000;stroke-width:16;stroke-linecap:butt;stroke-linejoin:miter" />
+  <text
+     x="3567.5784"
+     y="2958.7004"
+     id="text10"
+     xml:space="preserve"
+     style="font-size:158.96969604px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-anchor:middle;fill:#000000;stroke:#000000;stroke-width:0.025in;font-family:Sans;-inkscape-font-specification:Sans">Server</text>
+  <rect
+     width="850"
+     height="330"
+     rx="0"
+     x="3974.7402"
+     y="3585.8333"
+     id="rect12"
+     style="fill:#ffffff;stroke:#000000;stroke-width:16;stroke-linecap:butt;stroke-linejoin:miter" />
+  <text
+     x="4399.1968"
+     y="3810.0977"
+     id="text14"
+     xml:space="preserve"
+     style="font-size:158.96969604px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-anchor:middle;fill:#000000;stroke:#000000;stroke-width:0.025in;font-family:Sans;-inkscape-font-specification:Sans">Attacker</text>
+  <path
+     d="m 4641.2401,2932.3333 126,-31 -126,-32"
+     id="polyline18"
+     style="fill:none;stroke:#000000;stroke-width:16" />
+  <path
+     d="m 4159.2401,2869.3333 -126,32 126,31"
+     id="polyline20"
+     style="fill:none;stroke:#000000;stroke-width:16" />
+  <path
+     d="m 5320.5838,2960.1926 -894.924,576.0272"
+     id="polyline24"
+     style="fill:none;stroke:#ff0000;stroke-width:16;stroke-linecap:butt;stroke-linejoin:miter" />
+  <rect
+     width="850"
+     height="330"
+     rx="0"
+     x="4814.2549"
+     y="2735.8333"
+     id="rect22"
+     style="fill:#ffffff;stroke:#000000;stroke-width:16;stroke-linecap:butt;stroke-linejoin:miter" />
+  <path
+     d="m 4517.1885,3440.0129 -89.2746,94.1651 123.3144,-41.1529"
+     id="polyline26"
+     style="fill:none;stroke:#ff0000;stroke-width:16" />
+  <text
+     x="5231.5312"
+     y="2957.6526"
+     id="text28"
+     xml:space="preserve"
+     style="font-size:158.96969604px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-anchor:middle;fill:#000000;stroke:#000000;stroke-width:0.025in;font-family:Sans;-inkscape-font-specification:Sans">Browser</text>
+  <path
+     d="m 4029.0023,2900.8333 718.9701,0"
+     id="polyline16"
+     style="fill:none;stroke:#000000;stroke-width:15.99999905;stroke-linecap:butt;stroke-linejoin:miter" />
+</svg>
